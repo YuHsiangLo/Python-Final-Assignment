@@ -33,7 +33,7 @@ All theses are written in English or Dutch.
 #### XML format
 Theses are stored in .naf files, which have an XML structure shown in the following diagram.
 
-![XML structure](http://screenshot.net/mo7e0s3?tw)
+![XML structure](http://screenshot.net/mo7e0s3.jpg)
 
 *Note that the thesis by Ruben Verhagen in ```./thesis_vu_2015/fil/en``` is an empty file. Please delete this thesis before running the functions, otherwise the functions will raise an error.*
 
